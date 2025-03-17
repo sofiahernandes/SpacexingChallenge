@@ -1,6 +1,6 @@
 # Sofia Botechia Hernandes
 ## SpaceXing Website (Junior Challenge)
-![Screenshots das diferentes telas do website](https://drive.google.com/file/d/1-8jVH0q-FHkkYwfhSAk18aa7xuhJMcWz/view?usp=sharing)
+![spaceXing screens](https://github.com/user-attachments/assets/7a98476c-3f11-4aa5-af2b-a1c87da4f391)
 
 ### Executar localmente
 1. Faça o download do projeto (extraia-o da pasta .zip)
